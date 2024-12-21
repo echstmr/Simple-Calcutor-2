@@ -1,6 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple React Calculator
+This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
+
+![sample](https://github.com/user-attachments/assets/eefcbf0d-15fc-4009-91f5-59d81ec017ab)
 
 Currently, two official plugins are available:
 
